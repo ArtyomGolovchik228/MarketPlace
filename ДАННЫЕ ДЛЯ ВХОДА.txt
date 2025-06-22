@@ -1,0 +1,6 @@
+ПАРОЛИ: 1234
+
+ДАННЫЕ ДЛЯ ВХОДА:
+admin@mail.com
+seller1@mail.com
+buyer1@mail.com
